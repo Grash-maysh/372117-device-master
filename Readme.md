@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [FlowLynx](https://up.htmlacademy.ru/htmlcss/22/user/372117).
-* Наставник: `Неизвестно`.
+* Студент: [FlowLynx](https://htmlacademy.ru/profile/id852933).
+* Наставник: Илья Брайтсайд.(https://htmlacademy.ru/profile/id372117)
 
 ---
 
